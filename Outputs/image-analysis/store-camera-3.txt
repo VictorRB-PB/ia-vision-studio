@@ -1,0 +1,6 @@
+store-camera-3.jpg
+
+Threshold value: 25
+
+person (84.80%)
+supermarket (51.70%)
